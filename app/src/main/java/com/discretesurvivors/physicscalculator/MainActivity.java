@@ -39,8 +39,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        String formulas[] = {"Velocity: Distance, Time", "vx^2",
-                "ω ", "k"};
+        String formulas[] = {"Velocity, Distance, Time", "vx^2",
+                "ω ", "k"}; //a
 
         formulasDisplay = (ListView) findViewById(R.id.editlist_view);
         inputSearch = (EditText) findViewById(R.id.itemSearch);
