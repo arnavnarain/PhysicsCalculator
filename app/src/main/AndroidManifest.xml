@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PhysicsCalculator">
         <activity
+            android:name=".formula2"
+            android:exported="false" />
+        <activity
+            android:name=".formula1"
+            android:exported="false" />
+        <activity
+            android:name=".Formula1"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

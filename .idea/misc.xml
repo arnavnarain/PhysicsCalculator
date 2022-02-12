@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProjects/PhysicsCalculator/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1453125" />
+        <entry key="..\:/AndroidProjects/PhysicsCalculator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1453125" />
+        <entry key="..\:/AndroidProjects/PhysicsCalculator/app/src/main/res/layout/activity_formula1.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/PhysicsCalculator/app/src/main/res/layout/activity_formula2.xml" value="0.176" />
         <entry key="..\:/AndroidProjects/PhysicsCalculator/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/AndroidProjects/PhysicsCalculator/app/src/main/res/layout/searchview.xml" value="0.12708333333333333" />
       </map>
