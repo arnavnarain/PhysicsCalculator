@@ -51,7 +51,7 @@ public class formula1 extends AppCompatActivity {
         tvVelocity = findViewById(R.id.editViewTime);
         tvDistance = findViewById(R.id.editViewDistance);
         tvTime = findViewById(R.id.editViewVelocity);
-        tv
+        
         vVelocity = tvVelocity.getText().toString();
         vTime = tvTime.getText().toString();
         vDistance = tvDistance.getText().toString();

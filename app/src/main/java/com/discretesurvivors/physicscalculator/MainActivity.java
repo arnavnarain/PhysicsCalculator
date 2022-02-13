@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         formulasDisplay.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 if (position == 0) {
-                    startActivity(new Intent(MainActivity.this,formula1.class));
+                    startActivity(new Intent(MainActivity.this,formula2.class));
                 } else if(position == 1) {
                     startActivity(new Intent(MainActivity.this,formula2.class));
                 } else {
